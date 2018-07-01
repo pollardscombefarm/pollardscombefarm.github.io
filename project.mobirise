@@ -328,7 +328,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-522-550x366.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -396,10 +396,10 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/blackpool-sands2-2000x1500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
