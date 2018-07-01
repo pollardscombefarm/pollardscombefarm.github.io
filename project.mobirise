@@ -327,6 +327,23 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/blackpool-sands2-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-1",
+                "customStyle3": "display-4",
+                "title": "<br><br><br><br><br><br>COMING SOON!<br>Pollard's Combe&nbsp;<br>Farm",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "QA1<br><br><b><br></b><br><b><br></b><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br><br><br><br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-522-550x366.jpg",
                 "active": false,
                 "showButtons": false,
@@ -362,7 +379,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-523-434x436.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -375,40 +392,6 @@
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The Old Milking Parlour<br><br><br><br><br><br><br><br><br><br><br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc-0081-copy-2000x1128.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-1",
-                "customStyle3": "display-4",
-                "title": "<br><br><br><br><br><br>COMING SOON!<br>Pollard's Combe&nbsp;<br>Farm",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "QA1<br><br><b><br></b><br><b><br></b><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br><br><br><br><br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/blackpool-sands2-2000x1500.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-1",
-                "customStyle3": "display-4",
-                "title": "<br><br><br><br><br><br>COMING SOON!<br>Pollard's Combe&nbsp;<br>Farm",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "QA1<br><br><b><br></b><br><b><br></b><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br><br><br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
